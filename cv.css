@@ -110,7 +110,8 @@ body {
 
 
 /* style pour le photo de profile */
-.profile-img img {
+.profile-img{
+    background: #fff url(../ODKTPCV/images/photoprofile.png) center/ 70% 100%  no-repeat;
     width: 200px;
     height: 200px;
     border-radius: 50%;
